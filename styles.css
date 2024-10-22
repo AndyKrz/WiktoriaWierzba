@@ -82,6 +82,9 @@ nav ul {
     padding: 0;
 }
 
+main {
+    background: #d8e1e9;
+}
 nav ul li {
     display: inline;
     margin: 0 15px;
