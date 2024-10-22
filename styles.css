@@ -1,4 +1,4 @@
-.social-flag li {
+social-flag li {
     border-radius: 5px;
     width: 140px;
     height: 48px;
@@ -10,7 +10,7 @@
     display: block;
     border: 1px solid white;
 }
-.social-sm-block {
+social-sm-block {
     transition: right 0.5s ease-out 0s;
     background: none repeat scroll 0% 0% #8dc0b8;
 }
