@@ -1,3 +1,21 @@
+.social-flag li {
+    border-radius: 5px;
+    width: 140px;
+    height: 48px;
+    padding: 7px 10px 4px 5px;
+    margin: 3px 0px;
+    position: relative;
+    right: 0px;
+    box-sizing: initial;
+    display: block;
+    border: 1px solid white;
+}
+.social-sm-block {
+    transition: right 0.5s ease-out 0s;
+    background: none repeat scroll 0% 0% #8dc0b8;
+}
+
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
