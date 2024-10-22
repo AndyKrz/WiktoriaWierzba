@@ -85,7 +85,7 @@ h3 {
 }
 
 .profile-pic {
-    max-width: 290px;
+    max-width: -webkit-fill-available;
     border-radius: 5%;
 }
 
