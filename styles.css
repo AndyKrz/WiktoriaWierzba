@@ -69,8 +69,8 @@ h3 {
 
 .social-flag li {
     border-radius: 5px;
-    width: 140px;
-    height: 48px;
+    width: 45px;
+    height: 45px;
     padding: 7px 10px 4px 5px;
     margin: 3px 0px;
     position: relative;
@@ -81,7 +81,7 @@ h3 {
 }
 .social-sm-block {
     transition: right 0.5s ease-out 0s;
-    background: none repeat scroll 0% 0% #181818;
+    background: none repeat scroll 0% 0%;
 }
 
 .profile-pic {
