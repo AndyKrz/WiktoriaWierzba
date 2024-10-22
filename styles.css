@@ -5,8 +5,7 @@
         display: inline !important;
     }
     .profile-pic {
-    max-width: 50% !important
-        ;
+     max-width: -webkit-fill-available !important;
     border-radius: 5%;
 }
         .font_info {
