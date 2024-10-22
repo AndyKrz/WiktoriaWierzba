@@ -18,6 +18,10 @@
     .header_menu {
         font-size: 0.75rem !important;
     }
+
+    figure {
+            text-align: -webkit-center !important;
+    }
         
 }
 
