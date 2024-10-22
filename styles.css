@@ -20,7 +20,8 @@
     }
 
     figure {
-            text-align: -webkit-center !important;
+        text-align: -webkit-center !important;
+        display: grid !important;  
     }
         
 }
