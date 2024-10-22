@@ -99,10 +99,9 @@ section {
 }
 
 figure {
-    display: inline;
     margin: 0 0 1rem;
+    display: inline !important;
 }
-
 
 footer {
     text-align: center;
