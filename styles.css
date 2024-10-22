@@ -98,6 +98,11 @@ section {
     padding: 20px;
 }
 
+figure {
+    display: inline;
+    margin: 0 0 1rem;
+}
+
 
 footer {
     text-align: center;
