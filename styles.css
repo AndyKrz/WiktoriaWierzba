@@ -1,4 +1,4 @@
-font_info{
+.font_info {
     font-family: Playfair Display Regular;
     font-size: 2.5rem;
     letter-spacing: 0.22em;
@@ -8,7 +8,7 @@ font_info{
     text-transform: none;
     font-weight: normal;
 }
-font_info2{
+.font_info2 {
     font-family: Playfair Display Regular;
     font-size: 1.5rem;
     letter-spacing: 0.22em;
